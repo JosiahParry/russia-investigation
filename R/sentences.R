@@ -49,3 +49,4 @@ neg_sent <- get_sentiments("bing") %>%
 word_counts <- hearing_sntncs %>% 
   group_by(last_name) %>% 
   summarise(words = n())
+

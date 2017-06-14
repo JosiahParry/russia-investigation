@@ -75,3 +75,20 @@ freq_rank %>%
   scale_y_log10() +
   facet_wrap(party ~ last_name)
 
+#--------bind_tf_idf--------#
+# drop total and tf
+speaker_words <- speaker_words %>% select(-total, -tf)
+
+# use bind_tf_idf to get total, tf, idf, and tf_idf
+speaker_tf_idf <- speaker_words %>% 
+  bind_tf_idf(word, last_name, n)
+
+party_tf_idf <- speaker_words %>% 
+  bind_tf_idf(word, party, n)
+
+# inverse document frequency will be higher for words that occur in fewer of the documents in a collection (collection is speaker / last name)
+
+# tf-idf measures the importances of a word within a document.
+# higher tf-idf means that the word is more relevant to the document than others inthe collection
+
+party_tf_idf %>% arrange(-tf_idf)
