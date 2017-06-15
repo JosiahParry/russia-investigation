@@ -1,4 +1,4 @@
-CHAIRMAN RICHARD BURR: Attorney General Sessions, appreciate your willingness to appear before the committee today. I thank you for your years of dedicated service as a member of this body, and your recent leadership at the Department of Justice. As I mentioned when Director Comey appeared before us last week, this committee's role is to be the eyes and ears for the other 85 members of the United States Senate and for the American people, ensuring that the intelligence community is operating lawfully and has the necessary tools to keep America safe. The community is a large and diverse place.
+BURR: Attorney General Sessions, appreciate your willingness to appear before the committee today. I thank you for your years of dedicated service as a member of this body, and your recent leadership at the Department of Justice. As I mentioned when Director Comey appeared before us last week, this committee's role is to be the eyes and ears for the other 85 members of the United States Senate and for the American people, ensuring that the intelligence community is operating lawfully and has the necessary tools to keep America safe. The community is a large and diverse place.
 
 We recognize the gravity of our investigation into Russia's interference in the 2016 U.S. elections, but I remind our constituents that, while we investigate Russia, we are scrutinizing CIA's budget, while we are investigating Russia, we are still scrutinizing CIA's budget, NSA's 702 program, our nation's satellite program, and the entire IC effort to recruit and retain the best talent we can find in the world. More often than not, the committee conducts its work behind closed doors, a necessary step to ensure that our most sensitive sources and methods are protected. The sanctity of these sources and methods are at the heart of the intelligence community's ability to keep us safe and to keep our allies safe from those who seek to harm us.
 
@@ -8,7 +8,7 @@ As I've said previously, we will establish the facts, separate from rampant spec
 
 The Vice Chairman and I continue to lead this investigation together on what is a highly charged political issue. We may disagree at times, but we remain a unified team with a dedicated, focused and professional staff working tirelessly on behalf of the American people to find the truth. The committee has made much progress as the political winds blow forcefully around us, and I think all members would agree that despite a torrent of public debate on who and what committee might be best suited to lead on this issue, the intelligence committee has lived up to its obligation to move forward with purpose and above politics. Mr. Attorney General, it's good to have you back. I would now turn to the vice chairman for any remarks he might have.
 
-VICE CHAIRMAN MARK WARNER: Thank you, Mr. Chairman. And I want to also thank the way that we're proceeding on this investigation. Mr. Attorney General, it is good to see you again. And we appreciate your appearance on the heels of Mr. Comey's revealing testimony last week.
+WARNER: Thank you, Mr. Chairman. And I want to also thank the way that we're proceeding on this investigation. Mr. Attorney General, it is good to see you again. And we appreciate your appearance on the heels of Mr. Comey's revealing testimony last week.
 
 I do, though, want to take a moment at the outset and first express some concern with the process by which we are seeing you, the attorney general, today. It is my understanding that you were originally scheduled to testify in front of the House and Senate Appropriations committees today. I know those appearances have been canceled to come here instead. While we appreciate his testimony, before our committee, I believe -- and I believe I speak for many of my colleagues -- that I believe he should also answer questions from members of those committees and the Judiciary Committee as well. Mr. Attorney General, it's my hope that you will reschedule those appearances as soon as possible.
 
@@ -28,7 +28,7 @@ We have a lot of work in order to follow-up on these alarming disclosures. Mr. A
 
 Most importantly, our committee will want to hear what you are doing to ensure that the Russians or any other foreign adversaries cannot attack our democratic process like this ever again. I'm concerned that the president still does not recognize the severity of the threat. He, to date, has not acknowledged the conclusions of the intelligence community that Russia massively intervened in our elections. The threat we face is real. It's not limited to us. The recent effects in France gives us a stark reminder that all western democracies must take steps to protect themselves. The United States can and must be a leader in this effort, but it will require the administration to get serious about this. Finally, we have seen a concerning pattern of administration officials refusing to answer public, unclassified questions about allegations about the president in this investigation. We had a hearing with this subject last week. I want to commend the chairman who at the end of that hearing made clear that our witnesses, it was not acceptable for them to come forward without answers. The the American people deserve to hear what's going on here. Thank you Mr. Chairman, I look forward to the witness’ testimony.
 
-ATTORNEY GENERAL JEFF SESSIONS: Thank you very much, Chairman Burr and ranking member Warner for allowing me to publicly appear before your committee today. I appreciate the committee's critically important efforts to investigate Russian interference with our democratic processes.
+SESSIONS: Thank you very much, Chairman Burr and ranking member Warner for allowing me to publicly appear before your committee today. I appreciate the committee's critically important efforts to investigate Russian interference with our democratic processes.
 
 Such interference can never be tolerated and I encourage every effort to get to the bottom of any such allegations. As you know, the Deputy Attorney General has appointed a special counsel to investigate the matters related to the Russian interference in the 2016 election. I'm here today to address several issues that have been specifically raised before this committee. And I appreciate the opportunity to respond to questions as fully as the Lord enables me to do so. As I advise you, Mr. Chairman, with long standing Department of Justice practice, I cannot and will not violate my duty to protect confidential communications I have with the president. Let me address issues directly. I did not have any private meetings, nor do I recall any conversations, with any Russian officials at the Mayflower hotel.
 
@@ -76,7 +76,11 @@ SESSIONS: I do not.
 
 BURR: Was there ever a private room setting that you were involved in?
 
-SESSIONS: No, other than the reception area that was shut off from I guess the main crowd. Two to three dozen people. BURR: I would take for granted that the president shook some hands. SESSIONS: He came in and shook hands in the group.
+SESSIONS: No, other than the reception area that was shut off from I guess the main crowd. Two to three dozen people.
+
+BURR: I would take for granted that the president shook some hands.
+
+SESSIONS: He came in and shook hands in the group.
 
 BURR: Okay. You mentioned that there were staff with you at that event.
 
@@ -108,7 +112,9 @@ BURR: This could explain Director Comey's comments that he knew there was a like
 
 SESSIONS: Probably so. I'm sure that the attorneys in the Department of Justice probably communicated with him. Mr. Chairman, let me say this to you clearly. In effect as a matter of fact, I recused myself that day. I never received any information about the campaign. I thought there was a problem with me being able to serve as attorney general over this issue and I felt I would have to recuse myself and I took the position correctly, I believe, not to involve myself in the campaign in any way and I did not.
 
-BURR: You made a reference to the chief of staff sending out an e-mail immediately notifying internationally of your decision to recuse. Would you ask the staff to make that e-mail available? SESSIONS: We would be pleased to do so and I have it with me now.
+BURR: You made a reference to the chief of staff sending out an e-mail immediately notifying internationally of your decision to recuse. Would you ask the staff to make that e-mail available?
+
+SESSIONS: We would be pleased to do so and I have it with me now.
 
 BURR: Thank you. Have you had intersections with the special counsel Robert muller?
 
@@ -306,7 +312,7 @@ RISCH: Thank you, Mr. Chair.
 
 BURR: Senator Feinstein.
 
-SEN. DIANNE FEINSTEIN: Thanks very much, Mr. Chairman. Welcome, attorney general.
+FEINSTEIN: Thanks very much, Mr. Chairman. Welcome, attorney general.
 
 SESSIONS: Thank you.
 
@@ -478,7 +484,7 @@ COLLINS: Thank you.
 
 BURR: Senator Heinrich.
 
-SEN. MARTIN HEINRICH: Attorney General Sessions, has the president ever expressed his frustration to you regarding your decision to recuse yourself?
+HEINRICH: Attorney General Sessions, has the president ever expressed his frustration to you regarding your decision to recuse yourself?
 
 SESSIONS: Senator Heinrich, I'm not able to share with this committee private communications --
 
@@ -578,7 +584,7 @@ BLUNT: Just finally, I'm assuming you wouldn't talk about this. cause it would r
 
 BURR: Senator King.
 
-SENATOR ANGUS KING: Mr. Attorney General, thank you for joining us today.
+KING: Mr. Attorney General, thank you for joining us today.
 
 SESSIONS: Thank you.
 
@@ -666,7 +672,7 @@ KING: Thank you, Mr. Chairman.
 
 BURR: Senator Lankford.
 
-SEN. JAMES LANKFORD: Attorney General Sessions, good to see you again.
+LANKFORD: Attorney General Sessions, good to see you again.
 
 SESSIONS: Thank you.
 
@@ -690,7 +696,7 @@ LANKFORD: I yield back.
 
 BURR: Senator Manchin.
 
-SEN. JOE MANCHIN: Mr. Chairman, thank you. Thank you, Mr. Attorney General, for being here. It’s good to see you again.
+MANCHIN: Mr. Chairman, thank you. Thank you, Mr. Attorney General, for being here. It’s good to see you again.
 
 SESSIONS: Thank you, Senator Manchin.
 
@@ -786,7 +792,7 @@ SESSIONS: Doesn't seem like to.
 
 BURR: And our hope is that as we complete the process we will lay the facts out for the American people, so they can make their own determinations as well. We’re grateful for what we've done. Senator Cotton.
 
-SEN. TOM COTTON: Well, I am on this side of the dious and I could say a very simple question that should be asked. I am on this side of the dious, so a very simple question that should be asked is: “Did Donald Trump or any of his associates in the campaign collude with Russia in hacking those e-mails and releasing them to the public? That's where we started six months ago. We have now heard from six of the eight Democrats on this committee, and to my knowledge. I don't think a single one of them asked that question. They have gone down lots of other rabbit trails but not that question. Maybe that is because Jim Comey said last week as he said to Donald Trump on three times he assured him he was not under investigation. Maybe it's because multiple Democrats on this committee have stated they have seen no evidence thus far after six months of our investigation and ten months or 11 months of an FBI investigation of any such collusion. I would suggest what do we think happened at the Mayflower? Mr. Sessions, are you familiar with what spies call trade craft?
+COTTON: Well, I am on this side of the dious and I could say a very simple question that should be asked. I am on this side of the dious, so a very simple question that should be asked is: “Did Donald Trump or any of his associates in the campaign collude with Russia in hacking those e-mails and releasing them to the public? That's where we started six months ago. We have now heard from six of the eight Democrats on this committee, and to my knowledge. I don't think a single one of them asked that question. They have gone down lots of other rabbit trails but not that question. Maybe that is because Jim Comey said last week as he said to Donald Trump on three times he assured him he was not under investigation. Maybe it's because multiple Democrats on this committee have stated they have seen no evidence thus far after six months of our investigation and ten months or 11 months of an FBI investigation of any such collusion. I would suggest what do we think happened at the Mayflower? Mr. Sessions, are you familiar with what spies call trade craft?
 
 SESSIONS: A little bit.
 
@@ -826,7 +832,7 @@ COTTON: Thank you. My time has expired but for the record it was stated earlier 
 
 BURR: Senator Harris.
 
-SEN. KAMALA HARRIS: Attorney General Sessions, you have several times this afternoon prefaced your responses by saying to the best of your recollection. Just on the first page of your three pages of written testimony, you wrote nor do I recall, do not have recollection, do not remember it, so my question is for any of your testimony today, did you refresh your memory with any written documents, be them your calendar, written correspondence, e-mails or notes of any sort?
+HARRIS: Attorney General Sessions, you have several times this afternoon prefaced your responses by saying to the best of your recollection. Just on the first page of your three pages of written testimony, you wrote nor do I recall, do not have recollection, do not remember it, so my question is for any of your testimony today, did you refresh your memory with any written documents, be them your calendar, written correspondence, e-mails or notes of any sort?
 
 SESSIONS: I attempted to refresh my recollection but so much of this is in a wholesale campaign of extraordinary nature that you're moving so fast that you don't keep notes, you meet people. I didn't keep notes of my conversations with the Russian ambassador at the Republican convention. I didn't keep notes on most of these things.
 
@@ -924,7 +930,7 @@ SESSION: Well, I'm unable to answer the quest--
 
 HARRIS: and you would rely on that policy --
 
-SEN. JOHN MCCAIN: Chairman --
+MCCAIN: Chairman --
 
 HARRIS: Did you not ask your staff to show you the policy that would be the basis for you refusing to answer the majority --
 
@@ -952,7 +958,7 @@ HARRIS: Apparently not.
 
 BURR: Senator Cornyn.
 
-SEN. JOHN CORNYN: Attorney General Sessions, former director Comey in his letter to FBI employees when he was terminated started this way. He said I've long believed that a president can fire an FBI director for any reason or no reason at all. Do you agree with that?
+CORNYN: Attorney General Sessions, former director Comey in his letter to FBI employees when he was terminated started this way. He said I've long believed that a president can fire an FBI director for any reason or no reason at all. Do you agree with that?
 
 SESSIONS: Yes, and I think that was a -- good for him to say because I believe we're going to have a new and excellent FBI director, a person who is smart, disciplined, with integrity and proven judgment that would be good for the bureau, and I think that statement probably was a valuable thing for Director Comey to say. I appreciate that he did.
 

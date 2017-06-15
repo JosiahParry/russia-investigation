@@ -1,7 +1,7 @@
 library(tidyverse)
 library(stringr)
 
-hearing <- read_delim("hearing_raw.txt", 
+hearing <- read_delim("data/transcript_raw.txt", 
                       delim = "\n", col_names = "line")
 
 # Create index to replace (UNKNOWN): with UNKNOWN: to match speaker names from rest
@@ -25,10 +25,10 @@ for (i in 1:length(speaker)) {
 # Create tibble with speaker
 hearing <- tibble(line = hearing$line, speaker = to_fill) %>%
   mutate(line_num = row_number(),
-         date = as.Date("2017-06-08"))
+         date = as.Date("2017-06-13"))
 
 # Remove speaker from line
 hearing$line <- str_replace_all(hearing$line, "[A-Z]+:", "")
 
-write_csv(hearing, "hearing.csv")
+write_csv(hearing, "data/sessions_hearing.csv")
 
